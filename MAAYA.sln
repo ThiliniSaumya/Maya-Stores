@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAAYA", "MAAYA\MAAYA.csproj", "{FA51C919-8374-4128-86DD-BB1716A2F772}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{027F0CAE-A3D8-4B7A-A99D-805ED0C6752E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA51C919-8374-4128-86DD-BB1716A2F772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA51C919-8374-4128-86DD-BB1716A2F772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA51C919-8374-4128-86DD-BB1716A2F772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA51C919-8374-4128-86DD-BB1716A2F772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027F0CAE-A3D8-4B7A-A99D-805ED0C6752E}.Debug|Any CPU.ActiveCfg = Debug
+		{027F0CAE-A3D8-4B7A-A99D-805ED0C6752E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9C6394D-F7BF-483A-9B2C-EB5225C7F2AA}
+	EndGlobalSection
+EndGlobal
